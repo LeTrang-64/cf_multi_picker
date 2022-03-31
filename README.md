@@ -6,7 +6,7 @@ A package use for create multi picker
 
 To use this plugin, add cf_multi_picker as a dependency in your pubspec.yaml file.
 
-##Example
+## Example
 ```bash
 CfPicker.showMultiPicker(
         context: context,
@@ -26,6 +26,6 @@ flutter pub add cf_multi_picker
 import 'package:cf_multi_picker/cf_multi_picker.dart';
 ```
 
-##Preview
+## Preview
 
 ![multi_picker](multi_picker.gif)
